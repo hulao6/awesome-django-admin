@@ -40,7 +40,7 @@ Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, 
 ### Packages
 
 Visit [DjangoPackages.com](https://djangopackages.org/grids/g/admin-interface/) to found more admin packages.
-
+- [djangocontrolroom](https://djangocontrolroom.com) - Django Control Room is a suite of self-hosted admin panels for Django. It gives you real-time visibility into Redis, Celery, caching, URLs, signals, and errors, all inside your existing Django admin.
 - [django-admin-env-notice](https://github.com/dizballanze/django-admin-env-notice) - Visually distinguish environments in Django Admin
 - [django-admin-easy](https://github.com/ebertti/django-admin-easy) - Collection of admin fields and decorators to help to create computed or custom fields more friendly and easy way Edit
 - [djangoql](https://github.com/ivelum/djangoql) - Advanced search language for Django
